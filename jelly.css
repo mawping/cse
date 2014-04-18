@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+/* product-detail.php Feature table */
+.product-tab .table td { text-align: left; }
+
+.select-function .radio-box {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+li.select-colorall a{ text-align: left; }
+
+
+.method-list{ display: block;}
+.select-target-box{display: none;}
+
+
+
+
+
+.banner-wrap-small{
+	height: 320px;
+}
+.banner-wrap-small .banner-switch{
+	bottom: 7%;
+}
+
+
+span.delline{ text-decoration:line-through;}
+
+
+.social-plus{ width: 100%; padding-top: 40px; text-align: right;}
+.social-plus div{ display: inline-block; height: 20px; margin-left: 10px;}
+.social-plus .twitter-share {width: 80px;}
+
+.social-plus div.pin-it a{ margin-top: 0px !important;}
