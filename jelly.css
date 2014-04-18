@@ -17,8 +17,11 @@ li.select-colorall a{ text-align: left; }
 .select-target-box{display: none;}
 
 
-a{color:#900;}
-
+.select-function .radio-box {
+    float: left;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
 
 .banner-wrap-small{
 	height: 320px;
@@ -26,11 +29,11 @@ a{color:#900;}
 .banner-wrap-small .banner-switch{
 	bottom: 7%;
 }
-
+a{color:#900;}
 
 span.delline{ text-decoration:line-through;}
 
-
+a{color:#900;}
 .social-plus{ width: 100%; padding-top: 40px; text-align: right;}
 .social-plus div{ display: inline-block; height: 20px; margin-left: 10px;}
 .social-plus .twitter-share {width: 80px;}
