@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-
+.product-tab .table td { text-align: left; }
 /* product-detail.php Feature table */
 .product-tab .table td { text-align: left; }
 
