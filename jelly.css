@@ -16,7 +16,11 @@ li.select-colorall a{ text-align: left; }
 .method-list{ display: block;}
 .select-target-box{display: none;}
 
-
+.select-function .radio-box {
+    float: left;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
 
 
 
